@@ -1,0 +1,51 @@
+= google-materialdesignicons
+:linkattrs:
+:project-name: google-materialdesignicons
+
+image:http://img.shields.io/badge/license-CCSA4.0-blue.svg["CC SA 4.0, link="http://creativecommons.org/licenses/by-sa/4.0/"]
+image:https://api.bintray.com/packages/aalmiray/kordamp/google-materialdesignicons/images/download.svg[link="https://bintray.com/aalmiray/kordamp/google-materialdesignicons/_latestVersion"]
+
+---
+
+This project repackages all icons from https://github.com/google/material-design-icons/[Google's Material Design Icon pack 1.0.0]
+All JARs are available under the same license as the original (Attribution-ShareAlike 4.0 International).
+
+Icons have been repackaged according to their resolution (e.g. 1x_ios) and pixel size (e.g. 24) thus making it easier to manage
+a smaller set. The following list enumerates all available icon packages currently available
+
+ * 1x_ios-24
+ * 1x_ios-48
+ * 1x_web-18
+ * 1x_web-24
+ * 1x_web-36
+ * 1x_web-48
+ * 2x_ios-24
+ * 2x_ios-48
+ * 2x_web-18
+ * 2x_web-24
+ * 2x_web-36
+ * 2x_web-48
+ * 3x_ios-24
+ * 3x_ios-48
+ * drawable-hdpi-18
+ * drawable-hdpi-24
+ * drawable-hdpi-36
+ * drawable-hdpi-48
+ * drawable-mdpi-18
+ * drawable-mdpi-24
+ * drawable-mdpi-36
+ * drawable-mdpi-48
+ * drawable-xhdpi-18
+ * drawable-xhdpi-24
+ * drawable-xhdpi-36
+ * drawable-xhdpi-48
+ * drawable-xxhdpi-18
+ * drawable-xxhdpi-24
+ * drawable-xxhdpi-36
+ * drawable-xxhdpi-48
+ * drawable-xxxhdpi-18
+ * drawable-xxxhdpi-24
+ * drawable-xxxhdpi-36
+ * drawable-xxxhdpi-48
+ * svg-24
+ * svg-48
